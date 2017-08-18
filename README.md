@@ -1,5 +1,5 @@
 # Mirror Keyboard
-[![N|Solid](https://secure.gravatar.com/avatar/7273c58dc017eec83667b50742ff6368?s=80)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://secure.gravatar.com/avatar/7273c58dc017eec83667b50742ff6368?s=80)](https://www.linkedin.com/in/amitasviper/)
 
 This is a small python program based on client-server architecture to use a common keyboard to controll to different computer machines.
 
